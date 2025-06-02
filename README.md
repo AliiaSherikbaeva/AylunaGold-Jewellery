@@ -1,4 +1,4 @@
-elcome to Ayluna Gold — a modern, full-stack e-commerce platform built to support and empower small and medium-sized jewelry businesses. This project was created as part of my diploma thesis and was inspired by my family’s experience running a traditional jewelry store in Central Asian cities like Almaty, Bishkek, and Osh.
+Welcome to Ayluna Gold — a modern, full-stack e-commerce platform built to support and empower small and medium-sized jewelry businesses. This project was created as part of my diploma thesis and was inspired by my family’s experience running a traditional jewelry store in Central Asian cities like Almaty, Bishkek, and Osh.
 
 Ayluna Gold offers a seamless and secure digital shopping experience for gold and silver jewelry while providing business owners with tools to manage products, inventory, and customer engagement.
 
