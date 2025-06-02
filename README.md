@@ -1,66 +1,54 @@
-# UB Jewellers - Discover Exquisite Pieces
+elcome to Ayluna Gold — a modern, full-stack e-commerce platform built to support and empower small and medium-sized jewelry businesses. This project was created as part of my diploma thesis and was inspired by my family’s experience running a traditional jewelry store in Central Asian cities like Almaty, Bishkek, and Osh.
 
-![UB Jewellers](/public/logo.png)
+Ayluna Gold offers a seamless and secure digital shopping experience for gold and silver jewelry while providing business owners with tools to manage products, inventory, and customer engagement.
 
-Welcome to [UB Jewellers](https://ub-jewellers.web.app/), a **Jewelry Store E-Commerce Project!** This project is a **full-stack** application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with other technologies to create an online shop for jewelry products. Users can explore various categories, products, reviews, and more to find unique jewelry pieces at affordable prices..
+💎 Core Features
+🛒 Browse & Filter Products
+Explore a wide range of gold and silver jewelry.
 
-## Features and Functionalities
+Advanced search and filtering by category, price, size, and carat.
 
-### Browse Jewelry Products
+Detailed product pages include descriptions, images, pricing, and user reviews.
 
-- Explore a wide variety of jewelry products across different categories.
-- Detailed product information provided, including descriptions, user reviews, prices, and images.
-- Shop page contains all products where users can search product, filter categories, prices, sizes, carates etc.
+⭐ Product Reviews
+Users can leave feedback and help others make confident purchasing decisions.
 
-### Product Reviews
+🔐 Authentication & Security
+Firebase Authentication with Email/Password and Google Sign-In.
 
-- Read and leave reviews for jewelry products to help other users make informed decisions.
+JWT used for secure authorization and session management.
 
-### User Authentication
+👥 User Roles & Dashboards
+General Users: Browse products, place orders, and view order history.
 
-- Create an account or log in using Email, Password, or Google Sign-In method implemented with Firebase authentication.
-- Secure JWT tokens used for authorization to ensure data protection.
+Admin Users: Add/edit/delete products, manage categories and users, and view order data via a dedicated admin dashboard.
 
-### User Roles
+📱 Responsive Design
+Fully optimized for all screen sizes — from desktop to mobile — ensuring a smooth user experience everywhere.
 
-- **General User:**
-  - Browse and purchase jewelry products.
-  - Leave reviews for products.
-  - Find all profile information and order details in user dashboard.
-- **Admin User:**
-  - Access to an admin dashboard.
-  - Add, delete, and manage products, categories, users, and orders.
+🛠️ Tech Stack
+Frontend:
+React.js
 
-### Responsive Design
+Tailwind CSS
 
-- Jewelry Hub is mobile responsive, providing a seamless browsing experience on all devices.
+DaisyUI
 
-## Technology Stack
+JavaScript, HTML/CSS
 
-### Frontend:
+Backend:
+Node.js & Express.js
 
-- React.js
-- Tailwind CSS
-- DaisyUI
-- JavaScript
-- HTML/CSS
+MongoDB
 
-### Backend:
+Authentication:
+Firebase
 
-- Express.js
-- MongoDB
+Other Tools:
+Cloudinary (image storage)
 
-### Authentication:
+JSON Web Tokens (JWT)
 
-- Firebase
+Axios (HTTP requests)
 
-### Other Technologies:
-
-- Cloudinary
-- JSON Web Tokens (JWT)
-- Axios
-- React Query
-
-### Acknowledgements ❤️
-
-- [@jst_hamim](https://github.com/de-knight): Provided project logo design and essential graphic assets
+React Query (data fetching and caching)
